@@ -1,16 +1,16 @@
 ==============================================================
 Call for Participation
-LxMLS 2025 - 15th Lisbon Machine Learning School
+LxMLS 2026 - 16th Lisbon Machine Learning School
 ==============================================================
 
-We invite everyone interested in Machine Learning and Natural Language Processing to attend the 15th Lisbon Machine Learning School - LxMLS 2025.
+We invite everyone interested in Machine Learning and Natural Language Processing to attend the 16th Lisbon Machine Learning School - LxMLS 2026.
 
 Important Dates
 ---------------
-* Application Deadline: April 26, 2025
-* Notification of Admission: May 6, 2025
-* Early registration: May 7 - June 28, 2025
-* Summer School: July 11-17, 2025
+* Application Deadline: April 29th, 2026
+* Notification of Admission: May 15th, 2026
+* Early registration: June 28th, 2026
+* Summer School: July 20th-25th, 2026
 
 
 Topics and Intended Audience
@@ -34,23 +34,16 @@ Features of LxMLS:
 List of Confirmed Speakers
 ---------------
 
-ADÈLE H. RIBEIRO Philipps-Universität Marburg | Germany
-ALBERT GU Carnegie Mellon University | USA
 ANDRÉ MARTINS University of Lisbon & Unbabel | Portugal
 BHIKSHA RAJ Carnegie Mellon University | USA
-DANQI CHEN Princeton University | USA
 DESMOND ELLIOTT University Of Copenhagen | Denmark
-KYUNGHYUN CHO New York University | USA
 MÁRIO FIGUEIREDO University of Lisbon & Instituto de Telecomunicações | Portugal
-MOHIT BANSAL University of North Carolina at Chapel Hill | USA
 NOAH SMITH University of Washington & Allen Institute for Artificial Intelligence | USA
-SARA HOOKER Cohere for AI | Canada
-SLAV PETROV Google Inc. | USA
 
-Please visit our webpage for up-to-date information: http://lxmls.it.pt/2025/
-Apply here: http://tiny.cc/apply-lxmls2025
-Any questions should be directed to: lxmls-2025@googlegroups.com
+Please visit our webpage for up-to-date information: http://lxmls.it.pt/2026/
+Apply here: https://lisbonmls.wufoo.com/forms/application-form-lxmls-2026/
+Any questions should be directed to: lxmls-2026@googlegroups.com
 
 We are looking forward to your participation!
 
--- The organizers of LxMLS'2025.
+-- The organizers of LxMLS'2026.
