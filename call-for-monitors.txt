@@ -1,4 +1,4 @@
-# Lisbon Machine Learning School (LxMLS) 2025 -- CALL FOR MONITORS
+# Lisbon Machine Learning School (LxMLS) 2026 -- CALL FOR MONITORS
 
 The Lisbon Machine Learning School (LxMLS) is a one-week summer school
 taking place in Lisbon, Portugal, and focused on Natural Language
@@ -8,7 +8,9 @@ lecturers in machine learning from academia and industry.
 
 We are looking for candidates to take following responsibilities
 
-- Master the LxMLS lab guide and code. See [last year's guide](http://lxmls.it.pt/2024/documents/LxMLS_guide_2024.pdf) as reference
+- Master the LxMLS lab guide and code. See 
+ [last year's guide](http://lxmls.it.pt/2025/documents/LxMLS_guide_2025.pdf) 
+ as reference
 - Tutor students during the labs sessions explaining exercises and solving the
   student's doubts.
 - Assist in the organization of the school including Q&As and organization of
@@ -26,13 +28,14 @@ exception of the lab sessions, monitors rotate in activities so that there is
 available free time during the school.
 
 Interested candidates should send an email with subject "Monitor
-Application" to [ramon@astudillo.com](mailto:ramon@astudillo.com) with a Curriculum Vitae as well as following
-information
+Application" to [ramon@astudillo.com](mailto:ramon@astudillo.com) with a 
+Curriculum Vitae as well as following information
 
 - Brief description of why you want to join
 - Indication of whether you have attended any past edition of LxMLS as student
 - Indication of whether you need to apply to the travel and lodging grants
-- As last year, we are considering an additional core-member grant (additive to the travel grant) to work on a focused topic. This year: Multi Modal Systems 
+- As last year, we are considering an additional core-member grant (additive to 
+  the travel grant) to work on a focused topic. This year: Multi Modal Systems 
 - (Optional) Recommendation emails. These can be sent to the same address.
 
 Previous years monitors only need to send a CV and indicate if they are applying
@@ -40,9 +43,9 @@ to the travel and lodging grants an/or the core-member grant
 
 ## Important Dates
 
-- Monitor Application Deadline: May 1, 2025
-- Notification of Admission: May 6, 2025
+- Monitor Application Deadline: May 1, 2026
+- Notification of Admission: May 6, 2026
 - (Registration is automatic for accepted monitors)
-- Summer School: July 11 - 17, 2025 (arriving a day before is better)
+- Summer School: July 20 - 25, 2026 (arriving a day before is better)
 
-Check this years details at [lxmls.it.pt/2025/](https://bgmartins.github.io/lxmls-website-2025/index.html#about)
+Check this year's details at [lxmls.it.pt/2026/](https://lxmls.it.pt/2026/)
